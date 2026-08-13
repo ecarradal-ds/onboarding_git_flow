@@ -7,7 +7,7 @@ def sumar(a, b):
 
 def restar(a, b):
     # TODO: HU2 - Implementar lógica de resta
-    c = 1
+    c = a - b
     return c
 
 def multiplicar(a, b):
